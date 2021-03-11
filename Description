@@ -1,0 +1,8 @@
+Description
+This is a program that shows basic information about the weather in any city on our planet.
+
+Was used:
+1) JavaFX - a library for linking code with a GUI
+2) JSON - for reformatting weather data coming from an online service into data that is understandable for the client
+3) SceneBuilder program - for creating a graphical interface and its design
+4) IntellijIdea is a development environment for the Java programming language, all the code is written in it. The program starts from here.
